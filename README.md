@@ -1,2 +1,2 @@
 # Python-Data-Science
-This repository contains every code that was implemented while solving the assignments for my course in Data Processing using Python (BUDT 758X)
+The shift_alpha function takes in the entire English alphabet list and gives out an output string with the encrypted alphabet list. Strings have been encrypted and decrypted using the encrypt and decrypt functions respectively.
